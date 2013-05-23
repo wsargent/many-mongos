@@ -1,0 +1,27 @@
+{
+  "sha": "8205e91a3bd85137158603a7e863af7e051ba298",
+  "sources": {
+    "mongo20": {
+      "locked_version": "0.1.0",
+      "constraint": "= 0.1.0",
+      "path": "."
+    },
+    "mongodb": {
+      "locked_version": "0.12.0",
+      "git": "git@github.com:sbates/mongodb.git",
+      "ref": "c451dc178896782d444845072639ba29e2433387"
+    },
+    "apt": {
+      "locked_version": "1.9.0"
+    },
+    "yum": {
+      "locked_version": "2.1.0"
+    },
+    "aws": {
+      "locked_version": "0.101.0"
+    },
+    "cpan": {
+      "locked_version": "0.0.28"
+    }
+  }
+}
