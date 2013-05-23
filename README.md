@@ -8,6 +8,7 @@ This project requires an internet connection and Berkshelf to resolve dependenci
 It also requires Vagrant if you want to pop up in a vagrant box.
 ## Usage
 In the root of the project:
+
 `berks install`  
 
 `vagrant up`
