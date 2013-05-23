@@ -9,6 +9,7 @@ It also requires Vagrant if you want to pop up in a vagrant box.
 ## Usage
 In the root of the project:
 `berks install`  
+
 `vagrant up`
 
 Author:: Sascha Bates
