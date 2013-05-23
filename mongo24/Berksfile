@@ -1,0 +1,4 @@
+site :opscode
+
+metadata
+cookbook 'mongodb', git: 'git@github.com:sbates/mongodb.git'

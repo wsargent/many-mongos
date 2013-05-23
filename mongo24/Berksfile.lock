@@ -1,0 +1,6 @@
+cookbook 'mongo', :path => '/Users/saschabX/chef/cookbooks/mongo'
+cookbook 'mongodb', :path => '/Users/saschabX/github/mongo'
+cookbook 'apt', :locked_version => '1.9.0'
+cookbook 'yum', :locked_version => '2.1.0'
+cookbook 'aws', :locked_version => '0.101.0'
+cookbook 'cpan', :locked_version => '0.0.28'
